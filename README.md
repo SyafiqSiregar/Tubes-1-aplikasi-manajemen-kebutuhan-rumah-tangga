@@ -59,7 +59,7 @@ Aplikasi Manajemen Stok Bahan adalah sistem inventory management yang dikembangk
 
 2. **Compile & Run**
    ```bash
-   go run bagian3.go
+   go run PantryKeeper.go
    ```
 
    Atau compile terlebih dahulu:
