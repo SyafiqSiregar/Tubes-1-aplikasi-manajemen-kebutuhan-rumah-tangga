@@ -119,7 +119,7 @@ type Transaction struct {
 ## 🎯 Algoritma yang Diimplementasikan
 
 | Algoritma | Fungsi | 
-|-----------|--------|--------------|
+|-----------|--------|
 | **Selection Sort** | Mengurutkan stok dari terendah | 
 | **Insertion Sort** | Mengurutkan transaksi berdasarkan tanggal | 
 | **Sequential Search** | Mencari bahan dalam inventory | 
