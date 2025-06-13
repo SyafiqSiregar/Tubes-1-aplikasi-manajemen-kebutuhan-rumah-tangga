@@ -118,12 +118,12 @@ type Transaction struct {
 
 ## 🎯 Algoritma yang Diimplementasikan
 
-| Algoritma | Fungsi | Kompleksitas |
+| Algoritma | Fungsi | 
 |-----------|--------|--------------|
-| **Selection Sort** | Mengurutkan stok dari terendah | O(n²) |
-| **Insertion Sort** | Mengurutkan transaksi berdasarkan tanggal | O(n²) |
-| **Sequential Search** | Mencari bahan dalam inventory | O(n) |
-| **Binary Search** | Mencari transaksi berdasarkan bulan | O(log n) |
+| **Selection Sort** | Mengurutkan stok dari terendah | 
+| **Insertion Sort** | Mengurutkan transaksi berdasarkan tanggal | 
+| **Sequential Search** | Mencari bahan dalam inventory | 
+| **Binary Search** | Mencari transaksi berdasarkan bulan | 
 
 ## 🔧 Konfigurasi
 
